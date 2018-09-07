@@ -1,0 +1,35 @@
+html
+{
+    display: block;
+}
+head
+{
+    display: none;
+}
+body
+{
+    display: block;
+    margin: 10px;
+    background-color: rgb(157, 159, 186);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.container
+{
+    max-width: 960px;
+    margin: auto;
+    color: black;
+    background-color: rgb(255, 241, 222);
+}
+header
+{
+    align-content: center;
+}
+grid_css
+{
+    align-content: center;
+}
+main
+{
+    display: block;
+}
