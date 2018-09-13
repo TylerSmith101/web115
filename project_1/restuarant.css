@@ -1,0 +1,50 @@
+head
+{
+    none;
+}
+body
+{
+    display: block;
+    background-color: rgb(249, 249, 249);
+}
+#container
+{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    background-color: rgba(240, 240, 240, 0.792);
+}
+#menu
+{
+    display: block;
+    text-align: center;
+    background-color: rgb(198, 174, 126);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 52px;
+    align-content: center;
+}
+logo
+{
+    float: left;
+}
+#menu2
+{
+    display: block;
+    background-color: rgb(198, 174, 126);
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    float: left;
+}
+summary
+{
+
+}
+footer
+{
+
+}
+food
+{
+
+}
